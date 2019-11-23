@@ -1,8 +1,10 @@
-# Canada Is the Best at the Winter Olympics
+![This is a Picture of the Olympic Logo](winter_olympics.jpg "Olympic Logo")
+
+# Canada Is one of the best: Winter Olympics
 
 ## Thesis
 
-In this one page outline i will showcase why canada is one of the best at the winter olympics. I will begin showcasing medals won overall by sport and year, then I will break it down to a few key sports where canada has really triumphed. There will be some comparisons between other top countries such as the USA.  
+Canada is one of the best Olympic teams. I will showcase this through, medals won overall based on a beginning to current time frame, through number of gold, silver, bronze overall in comparison to the other top ten medal counts and through specific sports such as Hockey and Ice skating. 
 
 ## Requirments
 
