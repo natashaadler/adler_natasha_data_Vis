@@ -1,4 +1,4 @@
-![This is a Picture of the Olympic Logo](winter_olympics.jpg "Olympic Logo")
+![This is a Picture of the Olympic Logo](images/winter_olympics.jpg "Olympic Logo")
 
 # Canada Is one of the best: Winter Olympics
 
