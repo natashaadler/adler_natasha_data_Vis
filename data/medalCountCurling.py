@@ -1,6 +1,9 @@
+#libraries
 import matplotlib.pyplot as plt; plt.rcdefaults()
 import numpy as np
 import matplotlib.pyplot as plt
+
+#Total Number of Medals Won in Curling - Top 3 Countries
 
 # Country 
 country = ["CAN", "USA", "SWE", "FIN", "SUI", "NOR"]
