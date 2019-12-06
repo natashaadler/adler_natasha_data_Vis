@@ -1,6 +1,10 @@
+#Libraries
 import matplotlib.pyplot as plt; plt.rcdefaults()
 import numpy as np
 import matplotlib.pyplot as plt
+
+#Total number of medals won by Sport - Canada
+#this is not used in my App
 
 # type of sport
 sports = ["Hockey", "Skating", "Curling", "Skiing", "Bobsleigh", "Biathlon"]

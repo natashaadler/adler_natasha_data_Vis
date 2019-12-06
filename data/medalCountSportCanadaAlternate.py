@@ -1,5 +1,8 @@
 import matplotlib.pyplot as plt
 
+#Total Number of Medals Won by Sport - Canada
+#This is the Pie Chart used in my App!! 
+
 labels = ['Hockey', 'Skating', 'Curling', 'Skiing', 'Bobsleigh', 'Biathlon']
 sizes = [351, 159, 50, 40, 22, 1]
 colors = ['paleturquoise', 'lightseagreen', 'darkcyan', 'cadetblue', 'teal', 'aqua' ]

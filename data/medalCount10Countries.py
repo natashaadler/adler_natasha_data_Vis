@@ -2,6 +2,7 @@
 import numpy as np
 import matplotlib.pyplot as plt 
 
+#This graph was my first attempt but it didnt work!!!!!
 #Bar graph for top ten countries over all medal count - stacked graph
 
 N = 10
