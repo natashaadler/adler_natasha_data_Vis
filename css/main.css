@@ -1,18 +1,6 @@
 @charset "UTF-8";
 /* CSS Document */
 
-/*Remove this rule, this is only for demo purposes to make the boxes black with white text
-The line height on the <p> tag gives each box a height value*/
-
-p
-{
-	color: #fff;
-	line-height: 100px;
-	background: #000;
-	text-align: center;
-	margin: 0;
-}
-
 /*basic reset*/
 /*browsers have built in values for elements so we'll reset a few things to zero, you can add to this or remove items as needed*/
 
@@ -34,7 +22,7 @@ img
 body 
 {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 12px;
+	font-size: 14px;
 	color: #333;
 }
 
@@ -91,7 +79,7 @@ We center the box using margin 0 auto and give it a fixed width of 920 + 20px + 
 }
 
 /*This is a flex item*/
-#logo
+#logo img
 {
 	width: 200px;
 }
@@ -101,7 +89,12 @@ We center the box using margin 0 auto and give it a fixed width of 920 + 20px + 
 #mainNav 
 {
 	margin-left: auto;
-	width: 500px;
+	width: 600px;
+}
+
+#mainNav h2
+{
+	font-size: 35px;
 }
 
 #promo 
@@ -114,18 +107,13 @@ We center the box using margin 0 auto and give it a fixed width of 920 + 20px + 
   	justify-content: flex-start;
 }
 
-/*Get rid of this, here just to give different height to promo*/
-#promo p 
-{
-	line-height: 250px;
-}
-
 #promoText 
 {
 	width: 600px;
+	line-height: 20px;
 }
 
-#promoImage 
+#promoImage img
 {
 	margin-left: auto;
 	width: 280px;
@@ -141,28 +129,23 @@ We center the box using margin 0 auto and give it a fixed width of 920 + 20px + 
 	padding-bottom: 40px;
 }
 
-/*Get rid of this, here just to give different height to productInfo*/
-#productInfo p 
+.productDesc img
 {
-	line-height: 300px;
-}
-
-.productDesc 
-{
-	width: 200px;
+	width: 300px;
 }
 
 /*Content Area*/
-#contentAreaBig p 
-{
-	line-height: 300px;
-}
-
 #contentAreaBig
 {
 	margin-top: 40px;
 	border-bottom: solid 1px #DDD;
 	padding-bottom: 40px;
+	line-height: 20px;
+}
+
+#contentAreaBig img
+{
+	width: 100%;
 }
 
 #mainFooter 
@@ -183,4 +166,11 @@ We center the box using margin 0 auto and give it a fixed width of 920 + 20px + 
 {
 	margin-left: auto;
 	width: 310px;
+}
+
+.introConc {
+	margin-top: 40px;
+	border-bottom: solid 1px #DDD;
+	padding-bottom: 40px;
+	line-height: 20px;
 }
